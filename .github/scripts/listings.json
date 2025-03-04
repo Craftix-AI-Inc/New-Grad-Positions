@@ -526,5 +526,101 @@
         "date_posted": 1740779342,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1741125597,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Herndon-VA/Software-Engineer-I---Test_R0026900",
+        "company_name": "Sierra Nevada Coporation",
+        "title": "Software Engineer I - Test",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1741125597,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1741125597,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0026883",
+        "company_name": "Sierra Nevada Coporation",
+        "title": "Software Engineer I",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1741125597,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1741125597,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0026766",
+        "company_name": "Sierra Nevada Coporation",
+        "title": "Software Engineer I",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1741125597,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1741125597,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0026099",
+        "company_name": "Sierra Nevada Coporation",
+        "title": "Software Engineer I",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1741125597,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1741125597,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I---17330_R202559675",
+        "company_name": "Cox",
+        "title": "Software Engineer I",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1741125597,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1741125597,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA803-Marlborough-MA-Building-3-1001-Boston-Post-Road-Building-3-Marlborough-MA-01752-USA/Software-Engineer-I---Onsite-_01747844",
+        "company_name": "RTX",
+        "title": "Software Engineer I",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1741125597,
+        "company_url": "",
+        "is_visible": true
     }
 ]
