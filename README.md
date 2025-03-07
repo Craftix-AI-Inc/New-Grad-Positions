@@ -61,6 +61,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Splunk** | Software Engineer I | Toronto, ON, Canada | <a href="https://jobs.ashbyhq.com/Jerry/1b1559f1-24fb-4f38-a509-cf03198656a2?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 07 |
+| **Splunk** | Software Engineer (Frontend) - Early in Career | Colorado, North Carolina | <a href="https://jobs.jobvite.com/splunk-careers/job/oVYzvfwH?nl=1&nl=1&fr=false&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 07 |
 | **Iridium Communications** | Software Engineer I | Tempe, AZ | <a href="https://careers-iridium.icims.com/jobs/4346/job?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 05 |
 | **AppLovin** | Software Engineer I - Backend | Palo Alto, CA | <a href="https://boards.greenhouse.io/applovin/jobs/4451556006?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 05 |
 | **Sierra Nevada Coporation** | Software Engineer I - Test | Reston, VA | <a href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Herndon-VA/Software-Engineer-I---Test_R0026900?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 04 |
