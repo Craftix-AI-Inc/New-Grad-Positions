@@ -654,5 +654,37 @@
         "date_posted": 1741194897,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1741314382,
+        "url": "https://jobs.ashbyhq.com/Jerry/1b1559f1-24fb-4f38-a509-cf03198656a2",
+        "company_name": "Splunk",
+        "title": "Software Engineer I",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1741314382,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1741314382,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oVYzvfwH?nl=1&nl=1&fr=false",
+        "company_name": "Splunk",
+        "title": "Software Engineer (Frontend) - Early in Career",
+        "locations": [
+            "Colorado, North Carolina"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1741314382,
+        "company_url": "",
+        "is_visible": true
     }
 ]
