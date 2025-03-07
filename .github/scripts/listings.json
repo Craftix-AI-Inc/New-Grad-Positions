@@ -686,5 +686,37 @@
         "date_posted": 1741314382,
         "company_url": "",
         "is_visible": true
-    }
+    },
+    {
+       "date_updated": 1741370574,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2025-Fulltime---Raytheon-Software-Engineer-I--On-site-_01755701",
+        "company_name": "RTX",
+        "title": "2025 Fulltime - Raytheon Software Engineer I",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1741370574,
+        "company_url": "",
+        "is_visible": true 
+    },
+    {
+        "date_updated": 1741370575,
+         "url": "https://jobs.ashbyhq.com/vapi/3613e24a-de10-4e76-8c28-530df2a9981b/application",
+         "company_name": "Vapi",
+         "title": "New Grad Software Engineer",
+         "locations": [
+             "SF, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741370575,
+         "company_url": "",
+         "is_visible": true 
+     }
 ]
