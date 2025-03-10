@@ -810,7 +810,7 @@
          "locations": [
              "Fort Wayne, IN"
          ],
-         "sponsorship": "Offers Sponsorship",
+         "sponsorship": "Does Not Offer Sponsorship",
          "active": true,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
@@ -826,7 +826,7 @@
          "locations": [
              "Santa Clara, CA"
          ],
-         "sponsorship": "Does Not Offer Sponsorship",
+         "sponsorship": "Offer Sponsorship",
          "active": true,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
