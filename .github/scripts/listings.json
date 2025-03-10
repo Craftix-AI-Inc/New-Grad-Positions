@@ -718,5 +718,200 @@
          "date_posted": 1741370575,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1741631290,
+         "url": "https://www.amazon.jobs/en/jobs/2917089/front-end-engineer-i",
+         "company_name": "Amazon",
+         "title": "Front-End Engineer I",
+         "locations": [
+             "Seattle, WA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741631290,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741631291,
+         "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
+         "company_name": "AppLovin",
+         "title": "Backend Engineer, New Grad",
+         "locations": [
+             "Palo Alto, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741631291,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741631292,
+         "url": "https://www.exiger.com/careers/?gh_jid=5451647004",
+         "company_name": "Exiger",
+         "title": "Software Engineer",
+         "locations": [
+             "Jersey City, NJ"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741631292,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741631293,
+         "url": "https://jobs.keysight.com/external/jobs/44953",
+         "company_name": "Keysight",
+         "title": "R&D Software Engineer",
+         "locations": [
+             "Santa Rosa, CA",
+             "Everett, WA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741631293,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741631294,
+         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer--GPU---New-College-Grad-2025_JR1990169",
+         "company_name": "NVIDIA",
+         "title": "New Grad 2025: ASIC Verification Engineer, GPU",
+         "locations": [
+             "Santa Clara, CA",
+             "Austin, TX",
+             "Durham, NC"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741631294,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741631295,
+         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2025-Fulltime---Raytheon-Software-Engineer-I--On-site-_01755701",
+         "company_name": "RTX",
+         "title": "New Grad 2025: Software Engineer",
+         "locations": [
+             "Fort Wayne, IN"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741631295,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741631296,
+         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Design-Efficiency-Engineer---New-College-Grad-2025_JR1990204-1",
+         "company_name": "NVIDIA",
+         "title": "ASIC Design Efficiency Engineer - New College Grad 2025",
+         "locations": [
+             "Santa Clara, CA"
+         ],
+         "sponsorship": "Does Not Offer Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741631296,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741631297,
+         "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Applications-Engineer-I_20355-1",
+         "company_name": "Silicon Labs",
+         "title": "Applications Engineer I",
+         "locations": [
+             "Austin, TX"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741631297,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741631298,
+         "url": "https://boards.greenhouse.io/spacex/jobs/7824834002",
+         "company_name": "SpaceX",
+         "title": "Software Engineer, Displays Software",
+         "locations": [
+             "Hawthorne, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741631298,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741631299,
+         "url": "https://jobs.lever.co/spotify/e1b2a2a8-2b59-41ae-b8fe-6a072a261073",
+         "company_name": "Spotify",
+         "title": "Machine Learning Engineer - Content Understanding",
+         "locations": [
+             "New York, NY"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741631299,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741631299,
+         "url": "https://www.tesla.com/careers/search/job/238820",
+         "company_name": "Tesla",
+         "title": "Frontend Engineer, Vehicle UI",
+         "locations": [
+             "Hawthorne, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741631299,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741631299,
+         "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/7613846002",
+         "company_name": "XPeng",
+         "title": "Machine Learning Engineer - LLM, AI & Robotics",
+         "locations": [
+             "Santa Clara, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741631299,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
