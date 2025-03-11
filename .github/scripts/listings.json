@@ -913,5 +913,85 @@
          "date_posted": 1741631299,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1741727347,
+         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0135975",
+         "company_name": "Amentum",
+         "title": "Entry Level Software Engineer",
+         "locations": [
+             "Fredericksburg, VA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741727347,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741727348,
+         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0135976",
+         "company_name": "Amentum",
+         "title": "Entry Level Software Engineer",
+         "locations": [
+             "Fredericksburg, VA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741727348,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741727349,
+         "url": "https://job-boards.greenhouse.io/dagsterlabs/jobs/6505081003",
+         "company_name": "Dagster Labs",
+         "title": "Software Engineer, University Grad (Fall 2025 Start)",
+         "locations": [
+             "San Francisco, CA / New York, NY / Minneapolis, MN"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741727349,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741727350,
+         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I_R202558565",
+         "company_name": "COX",
+         "title": "Software Engineer I",
+         "locations": [
+             "Austin, TX"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741727350,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741727351,
+         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Data-Engineer-I_R-243234-1",
+         "company_name": "Mastercard",
+         "title": "Data Engineer I",
+         "locations": [
+             "O'Fallon, Missouri"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741727351,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
