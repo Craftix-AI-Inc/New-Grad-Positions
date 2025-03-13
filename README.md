@@ -61,6 +61,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Vanta** | Software Engineer – Entry Level | NYC, NY | <a href="https://jobs.ashbyhq.com/vanta/e48bccb9-069c-4921-a5db-1385050e878b/application?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 13 |
+| **Splunk** | Fedramp Machine Learning Engineer - Early in Career | California | <a href="https://jobs.jobvite.com/splunk-careers/job/o6QAvfwL?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 13 |
+| **Scale AI** | Software Engineer Public Sector – New Grad | SF, CA | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4537496005?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 13 |
 | **Mastercard** | Data Engineer I | O'Fallon, Missouri | <a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Data-Engineer-I_R-243234-1?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 11 |
 | **COX** | Software Engineer I | Austin, TX | <a href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I_R202558565?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 11 |
 | **Dagster Labs** | Software Engineer, University Grad (Fall 2025 Start) | San Francisco, CA / New York, NY / Minneapolis, MN | <a href="https://job-boards.greenhouse.io/dagsterlabs/jobs/6505081003?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 11 |
