@@ -993,5 +993,53 @@
          "date_posted": 1741727351,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1741824454,
+         "url": "https://jobs.jobvite.com/splunk-careers/job/o6QAvfwL",
+         "company_name": "Splunk",
+         "title": "Fedramp Machine Learning Engineer - Early in Career",
+         "locations": [
+             "California"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741824454,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741824454,
+         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4537496005",
+         "company_name": "Scale AI",
+         "title": "Software Engineer Public Sector – New Grad",
+         "locations": [
+             "SF, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741824454,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741824455,
+         "url": "https://jobs.ashbyhq.com/vanta/e48bccb9-069c-4921-a5db-1385050e878b/application",
+         "company_name": "Vanta",
+         "title": "Software Engineer – Entry Level",
+         "locations": [
+             "NYC, NY"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741824455,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
