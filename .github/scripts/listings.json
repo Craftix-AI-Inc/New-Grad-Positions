@@ -1041,5 +1041,133 @@
          "date_posted": 1741824455,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1741908646,
+         "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---St-Paul/Software-Systems-Engineer-I_31112816-1",
+         "company_name": "Abbott Laboratories",
+         "title": "Software Systems Engineer I",
+         "locations": [
+             "St Paul, Minnesota"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741908646,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741908647,
+         "url": "https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Medina-Minnesota/Software-Developer-I_R7114",
+         "company_name": "AspenTech",
+         "title": "Software Developer I",
+         "locations": [
+             "Medina, Minnesota"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741908647,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741908648,
+         "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Seattle-Office/Software-Development-Engineer-III_R3695-1",
+         "company_name": "Clearwater Analytics",
+         "title": "Software Development Engineer I",
+         "locations": [
+             "Seattle"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741908648,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741908649,
+         "url": "https://edwards.wd5.myworkdayjobs.com/en-US/EdwardsCareers/job/USA-Illinois--Naperville/Engr-I--Software-Quality---Failure-Analysis_Req-38967",
+         "company_name": "Edwards Lifesciences",
+         "title": "Engr I, Software Quality - Failure Analysis",
+         "locations": [
+             "Naperville, Illinois"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741908649,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741908649,
+         "url": "https://careers-nakupuna.icims.com/jobs/5161/software-developer-i---peoplesoft/job?mobile=false&width=1066&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+         "company_name": "Nakupuna Companies",
+         "title": "Software Developer I - PeopleSoft",
+         "locations": [
+             "Arlington, VA"
+         ],
+         "sponsorship": "Does Not Offer Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741908649,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741908649,
+         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Associate-Cyber-Software-Engineer_R10189304-1",
+         "company_name": "Northrop Grumman",
+         "title": "Associate Cyber Software Engineer",
+         "locations": [
+             "Colorado Springs, CO"
+         ],
+         "sponsorship": "Does Not Offer Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741908649,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741908650,
+         "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MD301-RMD-Annapolis-MD-2551-Riva-Road---Annapolis-MD-21401-7435-USA/XMLNAME-2025-Fulltime-Raytheon-Cloud-Security-Engineer--Onsite-_01756410",
+         "company_name": "RTX",
+         "title": "2025 Fulltime-Raytheon Cloud Security Engineer-(Onsite)",
+         "locations": [
+             "Annapolis, MD"
+         ],
+         "sponsorship": "Does Not Offer Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741908650,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741908650,
+         "url": "https://www.smxtech.com/jobs/smxtech/associate-software-engineer-secret-4184/?gh_jid=6507399003",
+         "company_name": "SMX",
+         "title": "Associate Software Engineer",
+         "locations": [
+             "Broomfield, CO"
+         ],
+         "sponsorship": "Does Not Offer Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741908650,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
