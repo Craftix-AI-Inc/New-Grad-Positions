@@ -971,7 +971,7 @@
              "Austin, TX"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1741727350,
@@ -987,7 +987,7 @@
              "O'Fallon, Missouri"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1741727351,
@@ -1067,7 +1067,7 @@
              "Medina, Minnesota"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1741908647,
@@ -1167,6 +1167,134 @@
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1741908650,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741972962,
+         "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I---Platforms-Team_R-55721",
+         "company_name": "Nike",
+         "title": "Software Engineer I - Platforms Team",
+         "locations": [
+             "Beaverton, OR"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741972962,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741972962,
+         "url": "https://job-boards.greenhouse.io/radiant/jobs/4540308005",
+         "company_name": "Radiant",
+         "title": "Software Engineer – New Graduate",
+         "locations": [
+             "El Segundo, CA"
+         ],
+         "sponsorship": "Does Not Offer Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741972962,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741972962,
+         "url": "https://jobs.lever.co/sophos/0f37ccf8-ca84-4a50-b231-c31d6f013939/apply",
+         "company_name": "Sophos",
+         "title": "Junior Software Engineer - Linux",
+         "locations": [
+             "Remote in UK"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741972962,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741972963,
+         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0136263",
+         "company_name": "Amentum",
+         "title": "Entry Level Software Developer",
+         "locations": [
+             "Dahlgren, VA"
+         ],
+         "sponsorship": "Does Not Offer Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741972963,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741972964,
+         "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineer--Associate_133397",
+         "company_name": "Bloomberg Industry Group",
+         "title": "Software Engineer - Associate",
+         "locations": [
+             "Arlington, VA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741972964,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741972965,
+         "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Alexandria-VA/Software-Engineer-Junior_R-00155382",
+         "company_name": "Leidos",
+         "title": "Software Engineer Junior",
+         "locations": [
+             "Alexandria, VA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741972965,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741972966,
+         "url": "https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/US-CA-Home/Software-Business-Analyst-I--Remote_REQ-8332",
+         "company_name": "TEREX",
+         "title": "Software Business Analyst I, Remote",
+         "locations": [
+             "Remote, US"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741972966,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1741972967,
+         "url": "https://careers-westernsouthern.icims.com/jobs/21909/software-developer-i/job",
+         "company_name": "Western & Southern Financial Group",
+         "title": "Software Developer I",
+         "locations": [
+             "Cincinnati, OH"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1741972967,
          "company_url": "",
          "is_visible": true 
      }
