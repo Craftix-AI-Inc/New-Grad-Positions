@@ -61,12 +61,15 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Jerry** | Software Engineer I | Toronto, ON, Canada | <a href="https://jobs.ashbyhq.com/Jerry/4e64a103-5ac4-4456-923e-a877e47ffdda/application?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 17 |
+| **Esri** | Software Development Engineer I | St. Louis, MO | <a href="https://www.esri.com/careers/4678530007?title=software-development-engineer-i-nga&gh_jid=4678530007&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 17 |
+| **Esri** | Software Development Engineer I | Vienna, VA | <a href="https://www.esri.com/careers/4678529007?gh_jid=4678529007&title=software-development-engineer-i-nga&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 17 |
 | **Western & Southern Financial Group** | Software Developer I | Cincinnati, OH | <a href="https://careers-westernsouthern.icims.com/jobs/21909/software-developer-i/job?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 14 |
 | **TEREX** | Software Business Analyst I, Remote | Remote, US | <a href="https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/US-CA-Home/Software-Business-Analyst-I--Remote_REQ-8332?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 14 |
 | **Leidos** | Software Engineer Junior | Alexandria, VA | <a href="https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Alexandria-VA/Software-Engineer-Junior_R-00155382?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 14 |
 | **Bloomberg Industry Group** | Software Engineer - Associate | Arlington, VA | <a href="https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineer--Associate_133397?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 14 |
 | **Amentum** | Entry Level Software Developer 🛂 | Dahlgren, VA | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0136263?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 14 |
-| **Sophos** | Junior Software Engineer - Linux | Remote in UK | <a href="https://jobs.lever.co/sophos/0f37ccf8-ca84-4a50-b231-c31d6f013939/apply?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 14 |
+| **Sophos** | Junior Software Engineer - Linux | Remote in UK | 🔒 | Mar 14 |
 | **Radiant** | Software Engineer – New Graduate 🛂 | El Segundo, CA | <a href="https://job-boards.greenhouse.io/radiant/jobs/4540308005?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 14 |
 | **Nike** | Software Engineer I - Platforms Team | Beaverton, OR | <a href="https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I---Platforms-Team_R-55721?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 14 |
 | **SMX** | Associate Software Engineer 🛂 | Broomfield, CO | <a href="https://www.smxtech.com/jobs/smxtech/associate-software-engineer-secret-4184/?gh_jid=6507399003&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 13 |
@@ -77,7 +80,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Clearwater Analytics** | Software Development Engineer I | Seattle | <a href="https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Seattle-Office/Software-Development-Engineer-III_R3695-1?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 13 |
 | **AspenTech** | Software Developer I | Medina, Minnesota | 🔒 | Mar 13 |
 | **Abbott Laboratories** | Software Systems Engineer I | St Paul, Minnesota | <a href="https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---St-Paul/Software-Systems-Engineer-I_31112816-1?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 13 |
-| **Vanta** | Software Engineer – Entry Level | NYC, NY | <a href="https://jobs.ashbyhq.com/vanta/e48bccb9-069c-4921-a5db-1385050e878b/application?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 13 |
+| **Vanta** | Software Engineer – Entry Level | NYC, NY | 🔒 | Mar 13 |
 | **Splunk** | Fedramp Machine Learning Engineer - Early in Career | California | <a href="https://jobs.jobvite.com/splunk-careers/job/o6QAvfwL?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 13 |
 | **Scale AI** | Software Engineer Public Sector – New Grad | SF, CA | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4537496005?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 13 |
 | **Mastercard** | Data Engineer I | O'Fallon, Missouri | 🔒 | Mar 11 |
@@ -96,11 +99,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Keysight** | R&D Software Engineer | Santa Rosa, CA</br>Everett, WA | <a href="https://jobs.keysight.com/external/jobs/44953?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 10 |
 | **Exiger** | Software Engineer | Jersey City, NJ | <a href="https://www.exiger.com/careers/?gh_jid=5451647004&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 10 |
 | **AppLovin** | Backend Engineer, New Grad | Palo Alto, CA | <a href="https://boards.greenhouse.io/applovin/jobs/4451556006?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 10 |
-| **Amazon** | Front-End Engineer I | Seattle, WA | <a href="https://www.amazon.jobs/en/jobs/2917089/front-end-engineer-i?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 10 |
+| **Amazon** | Front-End Engineer I | Seattle, WA | 🔒 | Mar 10 |
 | **Vapi** | New Grad Software Engineer | SF, CA | <a href="https://jobs.ashbyhq.com/vapi/3613e24a-de10-4e76-8c28-530df2a9981b/application?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 07 |
 | **RTX** | 2025 Fulltime - Raytheon Software Engineer I | Fort Wayne, IN | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2025-Fulltime---Raytheon-Software-Engineer-I--On-site-_01755701?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 07 |
 | **Splunk** | Software Engineer (Frontend) - Early in Career | Colorado, North Carolina | <a href="https://jobs.jobvite.com/splunk-careers/job/oVYzvfwH?nl=1&nl=1&fr=false&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 07 |
-| **Jerry** | Software Engineer I | Toronto, ON, Canada | <a href="https://jobs.ashbyhq.com/Jerry/1b1559f1-24fb-4f38-a509-cf03198656a2?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 07 |
+| **Jerry** | Software Engineer I | Toronto, ON, Canada | 🔒 | Mar 07 |
 | **Iridium Communications** | Software Engineer I | Tempe, AZ | 🔒 | Mar 05 |
 | **AppLovin** | Software Engineer I - Backend | Palo Alto, CA | <a href="https://boards.greenhouse.io/applovin/jobs/4451556006?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 05 |
 | **Sierra Nevada Coporation** | Software Engineer I - Test | Reston, VA | 🔒 | Mar 04 |
@@ -110,8 +113,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **RTX** | Software Engineer I | Atlanta, GA | 🔒 | Mar 04 |
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Mar 04 |
 | **cox** | Software Engineer I | Atlanta, GA | 🔒 | Feb 28 |
-| **Apple** | iOS Software Engineer, IS&T (Early Career) | Austin, TX | <a href="https://jobs.apple.com/en-us/details/200593209/ios-software-engineer-is-t-early-career?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
-| **Apple** | Software Development Engineer in Test, Retail Engineering, Early Career | Hybird | <a href="https://jobs.apple.com/en-us/details/200592987/software-development-engineer-in-test-retail-engineering-early-career?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| **Apple** | iOS Software Engineer, IS&T (Early Career) | Austin, TX | 🔒 | Feb 28 |
+| **Apple** | Software Development Engineer in Test, Retail Engineering, Early Career | Hybird | 🔒 | Feb 28 |
 | **eBay** | Software Engineer 1 | NYC, NY | <a href="https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/New-York-City/Software-Engineer-1_R0066254?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
 | **Ciena** | WaveLogic Software Developer - New Grad | Atlanta, GA | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R027194?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 27 |
 | **Adobe** | Software Development Engineer 1 | Lehi, UT | 🔒 | Feb 27 |
@@ -135,11 +138,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Jacobs** | Software Engineer | Hudson, NH | <a href="https://careers.jacobs.com/en_US/careers/JobDetail/Software-Engineer/22934?Src=JB-10147&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **Caterpillar** | 2025 Cat Digital - Early Career Software Engineer | Chicago, IL Peoria, IL Irving, TX | 🔒 | Feb 20 |
 | **Duckie - YC** | Software Engineer (Applied AI) at Duckie (W24) | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/73148?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
-| **Apple** | Software Engineer - TV App for Android Mobile Devices | San Diego, CA | <a href="https://jobs.apple.com/en-us/details/200559181/software-engineer-tv-app-for-android-mobile-devices?team=SFTWR&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
-| **Apple** | Wireless Charging Firmware Engineer | Cupertino, CA | <a href="https://jobs.apple.com/en-us/details/200591889/wireless-charging-firmware-engineer?team=SFTWR&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
-| **Apple** | Applied Networking Frameworks Engineer | San Diego, CA | <a href="https://jobs.apple.com/en-us/details/200578360/applied-networking-frameworks-engineer?team=SFTWR&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
-| **Apple** | SoC Design/Integration & Synthesis Engineer | Cupertino, CA | <a href="https://jobs.apple.com/en-us/details/200591811/embedded-software-engineer?team=HRDWR&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
-| **Apple** | SoC Design/Integration & Synthesis Engineer | Cupertino, CA | <a href="https://jobs.apple.com/en-us/details/200591842/soc-design-integration-synthesis-engineer?team=HRDWR&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
+| **Apple** | Software Engineer - TV App for Android Mobile Devices | San Diego, CA | 🔒 | Feb 20 |
+| **Apple** | Wireless Charging Firmware Engineer | Cupertino, CA | 🔒 | Feb 20 |
+| **Apple** | Applied Networking Frameworks Engineer | San Diego, CA | 🔒 | Feb 20 |
+| **Apple** | SoC Design/Integration & Synthesis Engineer | Cupertino, CA | 🔒 | Feb 20 |
+| **Apple** | SoC Design/Integration & Synthesis Engineer | Cupertino, CA | 🔒 | Feb 20 |
 | **xAI** | Software Engineer | Memphis, TN Palo Alto, CA | <a href="https://boards.greenhouse.io/xai/jobs/4653845007?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **Vanta** | Software Engineer, Entry Level | Remote US | 🔒 | Feb 20 |
 
