@@ -40,7 +40,7 @@
             "Cupertino, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": false,
+        "active": true,
         "source": "ERICQA0201",
         "id": "15782f80-0dc5-492d-9127-f7be83570293",
         "date_posted": 1740086756,
@@ -72,7 +72,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": false,
+        "active": true,
         "source": "ERICQA0201",
         "id": "fe48e57a-1147-4064-8917-70e1decd02be",
         "date_posted": 1740086851,
@@ -104,7 +104,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": false,
+        "active": true,
         "source": "ERICQA0201",
         "id": "8692847e-650c-4fcf-b837-6260e44ab10c",
         "date_posted": 1740086889,
