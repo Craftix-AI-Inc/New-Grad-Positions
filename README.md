@@ -138,11 +138,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Jacobs** | Software Engineer | Hudson, NH | <a href="https://careers.jacobs.com/en_US/careers/JobDetail/Software-Engineer/22934?Src=JB-10147&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **Caterpillar** | 2025 Cat Digital - Early Career Software Engineer | Chicago, IL Peoria, IL Irving, TX | 🔒 | Feb 20 |
 | **Duckie - YC** | Software Engineer (Applied AI) at Duckie (W24) | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/73148?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
-| **Apple** | Software Engineer - TV App for Android Mobile Devices | San Diego, CA | 🔒 | Feb 20 |
+| **Apple** | Software Engineer - TV App for Android Mobile Devices | San Diego, CA | <a href="https://jobs.apple.com/en-us/details/200559181/software-engineer-tv-app-for-android-mobile-devices?team=SFTWR&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **Apple** | Wireless Charging Firmware Engineer | Cupertino, CA | 🔒 | Feb 20 |
-| **Apple** | Applied Networking Frameworks Engineer | San Diego, CA | 🔒 | Feb 20 |
+| **Apple** | Applied Networking Frameworks Engineer | San Diego, CA | <a href="https://jobs.apple.com/en-us/details/200578360/applied-networking-frameworks-engineer?team=SFTWR&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **Apple** | SoC Design/Integration & Synthesis Engineer | Cupertino, CA | 🔒 | Feb 20 |
-| **Apple** | SoC Design/Integration & Synthesis Engineer | Cupertino, CA | 🔒 | Feb 20 |
+| **Apple** | SoC Design/Integration & Synthesis Engineer | Cupertino, CA | <a href="https://jobs.apple.com/en-us/details/200591842/soc-design-integration-synthesis-engineer?team=HRDWR&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **xAI** | Software Engineer | Memphis, TN Palo Alto, CA | <a href="https://boards.greenhouse.io/xai/jobs/4653845007?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **Vanta** | Software Engineer, Entry Level | Remote US | 🔒 | Feb 20 |
 
