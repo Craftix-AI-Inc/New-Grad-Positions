@@ -40,7 +40,7 @@
             "Cupertino, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "ERICQA0201",
         "id": "15782f80-0dc5-492d-9127-f7be83570293",
         "date_posted": 1740086756,
@@ -56,7 +56,7 @@
             "Cupertino, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "ERICQA0201",
         "id": "5463116c-a4c8-455a-8a09-e6bb38f6e0d4",
         "date_posted": 1740086839,
@@ -72,7 +72,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "ERICQA0201",
         "id": "fe48e57a-1147-4064-8917-70e1decd02be",
         "date_posted": 1740086851,
@@ -88,7 +88,7 @@
             "Cupertino, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "ERICQA0201",
         "id": "41b3312a-dfc8-41df-9aea-2b04ef743cb1",
         "date_posted": 1740086870,
@@ -104,7 +104,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "ERICQA0201",
         "id": "8692847e-650c-4fcf-b837-6260e44ab10c",
         "date_posted": 1740086889,
@@ -504,7 +504,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "ERICQA0201",
         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
         "date_posted": 1740779342,
@@ -520,7 +520,7 @@
             "Hybird"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "ERICQA0201",
         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
         "date_posted": 1740779342,
@@ -664,7 +664,7 @@
             "Toronto, ON, Canada"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "ERICQA0201",
         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
         "date_posted": 1741314382,
@@ -728,7 +728,7 @@
              "Seattle, WA"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1741631290,
@@ -1035,7 +1035,7 @@
              "NYC, NY"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1741824455,
@@ -1211,7 +1211,7 @@
              "Remote in UK"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1741972962,
@@ -1295,6 +1295,54 @@
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1741972967,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742236551,
+         "url": "https://www.esri.com/careers/4678530007?title=software-development-engineer-i-nga&gh_jid=4678530007",
+         "company_name": "Esri",
+         "title": "Software Development Engineer I",
+         "locations": [
+             "St. Louis, MO"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742236551,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742236551,
+         "url": "https://www.esri.com/careers/4678529007?gh_jid=4678529007&title=software-development-engineer-i-nga",
+         "company_name": "Esri",
+         "title": "Software Development Engineer I",
+         "locations": [
+             "Vienna, VA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742236551,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742236552,
+         "url": "https://jobs.ashbyhq.com/Jerry/4e64a103-5ac4-4456-923e-a877e47ffdda/application",
+         "company_name": "Jerry",
+         "title": "Software Engineer I",
+         "locations": [
+             "Toronto, ON, Canada"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742236552,
          "company_url": "",
          "is_visible": true 
      }
