@@ -1393,5 +1393,215 @@
          "date_posted": 1742238126,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1742342560,
+         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Software-Engineer_R-00155651-1",
+         "company_name": "Leidos",
+         "title": "Entry Level Software Engineer",
+         "locations": [
+             "Huntsville, AL"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742342560,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742342560,
+         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Engineer-1---FDIC_R57309",
+         "company_name": "Fifth Third Bank",
+         "title": "Data Engineer 1 - FDIC",
+         "locations": [
+             "Cincinnati, OH"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742342560,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742342561,
+         "url": "https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Miami-Corporate-Office/Data-Engineer-I_R1864",
+         "company_name": "RBI",
+         "title": "Software Engineer I - AI & Machine Learning",
+         "locations": [
+             "Miami, FL"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742342561,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742342562,
+         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0136097",
+         "company_name": "Amentum",
+         "title": "Entry Level Software Engineer",
+         "locations": [
+             "Fredericksburg, VA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742342562,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742342563,
+         "url": "https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I_WD30235512",
+         "company_name": "Johnson Controls",
+         "title": "Embedded Software Engineer I",
+         "locations": [
+             "New Freedom Pennsylvania"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742342563,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742342563,
+         "url": "https://job-boards.greenhouse.io/fetchrewards/jobs/6388112003",
+         "company_name": "Fetch",
+         "title": "Backend Engineer, Apprenticeship",
+         "locations": [
+             "Chicago, Madison"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742342563,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742342564,
+         "url": "https://job-boards.greenhouse.io/fetchrewards/jobs/6394439003",
+         "company_name": "Fetch",
+         "title": "Frontend Engineering Apprentice",
+         "locations": [
+             "Chicago, Madison"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742342564,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742342565,
+         "url": "https://boards.greenhouse.io/onbe/jobs/4441632006",
+         "company_name": "Onbe",
+         "title": "Software Development Associate Engineer",
+         "locations": [
+             "Conshohocken, Pennsylvania, United States"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742342565,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742342565,
+         "url": "https://boards.greenhouse.io/onbe/jobs/4440673006",
+         "company_name": "Onbe",
+         "title": "Software Development Associate Engineer",
+         "locations": [
+             "Dallas, Texas, United States"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742342565,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742342566,
+         "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Associate-Applications-Developer---NET-Full-Stack_R25008252",
+         "company_name": "UPS",
+         "title": "Associate Applications Developer - .NET Full Stack",
+         "locations": [
+             "IN - TDC 1"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742342566,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742342567,
+         "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Minnetonka-MN-USA/Entry-Level-Software-Engineer--DevOps---CI-CD--Cloud-Virtual-Infrastructure--Hardware--Product-Security_250003326-1",
+         "company_name": "VIAVI",
+         "title": "Entry Level Software Engineer (DevOps)– CI/CD, Cloud/Virtual Infrastructure, Hardware, Product Security",
+         "locations": [
+             "Minnetonka, MN USA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742342567,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742342568,
+         "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Cary-3000-CentreGreen-Way/Backend-JavaPython-Developer---Associate_R0378789",
+         "company_name": "Deutsche Bank",
+         "title": "Backend Java - Python Developer - Associate",
+         "locations": [
+             "Cary, NC"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742342568,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742342569,
+         "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Texas---Irving/Associate-Software-Engineer_31112794-1",
+         "company_name": "Abbott",
+         "title": "Associate Software Engineer",
+         "locations": [
+             "Irving, TX"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742342569,
+         "company_url": "",
+         "is_visible": true 
      }
+
+     
 ]
