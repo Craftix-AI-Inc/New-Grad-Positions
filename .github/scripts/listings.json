@@ -891,7 +891,7 @@
              "Hawthorne, CA"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1741631299,
@@ -1051,7 +1051,7 @@
              "St Paul, Minnesota"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1741908646,
@@ -1131,7 +1131,7 @@
              "Colorado Springs, CO"
          ],
          "sponsorship": "Does Not Offer Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1741908649,
@@ -1147,7 +1147,7 @@
              "Annapolis, MD"
          ],
          "sponsorship": "Does Not Offer Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1741908650,
@@ -1163,7 +1163,7 @@
              "Broomfield, CO"
          ],
          "sponsorship": "Does Not Offer Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1741908650,
@@ -1179,7 +1179,7 @@
              "Beaverton, OR"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1741972962,
@@ -1227,7 +1227,7 @@
              "Dahlgren, VA"
          ],
          "sponsorship": "Does Not Offer Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1741972963,
@@ -1435,7 +1435,7 @@
              "Miami, FL"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1742342561,
@@ -1467,7 +1467,7 @@
              "New Freedom Pennsylvania"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1742342563,
@@ -1579,7 +1579,7 @@
              "Cary, NC"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1742342568,
