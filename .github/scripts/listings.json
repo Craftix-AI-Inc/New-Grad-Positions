@@ -1730,5 +1730,69 @@
          "date_posted": 1742578808,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1742681885,
+         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Seattle-Washington/Software-Engineer-I_R-225610",
+         "company_name": "Mastercard",
+         "title": "Software Engineer 1",
+         "locations": [
+             "Seattle, Washington"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742681885,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742681886,
+         "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Software-Developer--Junior_R0216902",
+         "company_name": "Booz Allen",
+         "title": "Software Developer, Junior",
+         "locations": [
+             "Charleston, SC"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742681886,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742681887,
+         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1_R408602",
+         "company_name": "Comcast",
+         "title": "Software Engineer 1",
+         "locations": [
+             "IL - Chicago, VA - Reston"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742681887,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742681888,
+         "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2512539-1",
+         "company_name": "Applied Materials",
+         "title": "Data Scientist I New College Grad- Bachelor's",
+         "locations": [
+             "Santa Clara,CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742681888,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
