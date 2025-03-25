@@ -1794,5 +1794,71 @@
          "date_posted": 1742681888,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1742941231,
+         "url": "https://job-boards.greenhouse.io/affirm/jobs/6513927003",
+         "company_name": "Affirm",
+         "title": "Software Engineer I",
+         "locations": [
+             "Remote in Canada"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742941231,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742941232,
+         "url": "https://job-boards.greenhouse.io/affirm/jobs/6513925003",
+         "company_name": "Affirm",
+         "title": "Software Engineer I",
+         "locations": [
+             "Remote in US"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742941232,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742941233,
+         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00156190",
+         "company_name": "Leidos",
+         "title": "Software Developer - Entry level",
+         "locations": [
+             "Fort Sill, OK",
+             "Lawton, OK"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742941233,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1742941233,
+         "url": "https://jobs.ashbyhq.com/Jerry/b3ae5f20-9e99-48fb-bce9-2436b0ebe88e/application",
+         "company_name": "Jerry",
+         "title": "Software Engineer I (Toronto)",
+         "locations": [
+             "Toronto, Ontario",
+             "Greater Toronto Area, Ontario"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1742941233,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
