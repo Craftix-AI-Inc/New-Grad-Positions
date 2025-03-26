@@ -1860,5 +1860,38 @@
          "date_posted": 1742941233,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1743032126,
+         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000049871275",
+         "company_name": "Western Digital",
+         "title": "New College Grad - Software Development Engineering - Apps",
+         "locations": [
+             "Irvine, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743032126,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743032127,
+         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Enterprise-Technology---Early-Career-2025-University-Grad_R50585",
+         "company_name": "Blue Origin",
+         "title": "Software Development Engineer I – Early Career 2025 University Grad - Enterprise Technology",
+         "locations": [
+             "Seattle, WA",
+             "Huntsville, AL"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743032127,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
