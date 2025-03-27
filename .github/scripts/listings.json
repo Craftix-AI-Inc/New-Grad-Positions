@@ -1893,5 +1893,85 @@
          "date_posted": 1743032127,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1743111717,
+         "url": "https://careers-gdms.icims.com/jobs/65881/software-engineer-%e2%80%93-entry-level/job?mobile=false&width=1334&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+         "company_name": "General Dynamics Mission Systems",
+         "title": "Software Engineer – Entry Level",
+         "locations": [
+             "Scottsdale, AZ"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743111717,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743111717,
+         "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Software-Engineer-I_R25246-1",
+         "company_name": "Medtronic",
+         "title": "Software Engineer I",
+         "locations": [
+             "Los Angeles, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743111717,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743111718,
+         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000050379715",
+         "company_name": "Western Digital",
+         "title": "New College Grad, Software Development Engineering (Apps)",
+         "locations": [
+             "Ivingr, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743111718,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743111719,
+         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202560561",
+         "company_name": "COX",
+         "title": "Software Engineer I",
+         "locations": [
+             "Atlanta, GA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743111719,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743111720,
+         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01759345",
+         "company_name": "RTX",
+         "title": "Software Engineer I",
+         "locations": [
+             "Cedar Rapids, IA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743111720,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
