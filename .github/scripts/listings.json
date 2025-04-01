@@ -1973,5 +1973,299 @@
          "date_posted": 1743111720,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1743464698,
+         "url": "https://jobs.apple.com/en-us/details/200591437/project-manager-software-development-enterprise-applications?team=SFTWR",
+         "company_name": "Apple",
+         "title": "Project Manager, Software Development & Enterprise Applications",
+         "locations": [
+             "Austin, TX"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464698,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464698,
+         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
+         "company_name": "Blue Origin",
+         "title": "New Grad 2025: Software Development Engineer I",
+         "locations": [
+             "Seattle, WA",
+             "Van Horn, TX",
+             "Huntsville, AL",
+             "Denver, CO",
+             "Space Coast, FL",
+             "Los Angeles, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464698,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464699,
+         "url": "https://careers.boozallen.com/careers/JobDetail?jobId=109579",
+         "company_name": "Booz Allen",
+         "title": "Junior Software Developer",
+         "locations": [
+             "Charleston, SC"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464699,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464699,
+         "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0824-1734&BRID=1149839&SBDID=943",
+         "company_name": "CGI",
+         "title": "Software Developer - Entry Level",
+         "locations": [
+             "Lebanon, VA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464699,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464699,
+         "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0824-1617&BRID=1149526&SBDID=943",
+         "company_name": "CGI",
+         "title": "Software Developer -- Entry Level",
+         "locations": [
+             "Atlanta, GA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464699,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464699,
+         "url": "https://cw.wd1.myworkdayjobs.com/External/job/Tampa-Florida-USA/Mobile-Building-Engineer_R268066",
+         "company_name": "Cushman & Wakefield",
+         "title": "Mobile Building Engineer",
+         "locations": [
+             "Tampa, FL"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464699,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464699,
+         "url": "https://jobs.careers.microsoft.com/us/en/job/1816830/Software-Engineer-Fullstack-Charlotte",
+         "company_name": "Microsoft",
+         "title": "Fullstack Software Engineer",
+         "locations": [
+             "Charlotte, NC"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464699,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464699,
+         "url": "https://explore.jobs.netflix.net/careers/job/790301964539",
+         "company_name": "Netflix",
+         "title": "Software Engineer, Android Games SDK",
+         "locations": [
+             "Remote US"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464699,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464699,
+         "url": "https://explore.jobs.netflix.net/careers/job/790301953900",
+         "company_name": "Netflix",
+         "title": "Software Engineer, Cloud Security",
+         "locations": [
+             "Remote US"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464699,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464699,
+         "url": "https://careers.qualcomm.com/careers/job/446704474013",
+         "company_name": "Qualcomm",
+         "title": "Embedded DSP Software Engineer",
+         "locations": [
+             "San Diego, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464699,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464699,
+         "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Quality-Engineer_R-043779",
+         "company_name": "Red Hat",
+         "title": "Software Quality Engineer",
+         "locations": [
+             "Raleigh, NC"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464699,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464699,
+         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4463083005",
+         "company_name": "Scale AI",
+         "title": "New Grad: Software Engineer",
+         "locations": [
+             "San Francisco, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464699,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464699,
+         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4537496005",
+         "company_name": "Scale AI",
+         "title": "New Grad 2025: Software Engineer, Public Sector",
+         "locations": [
+             "San Francisco, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464699,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464699,
+         "url": "https://www.careers.signify.com/global/en/job/357504",
+         "company_name": "Signify",
+         "title": "Mobile App Software Engineer",
+         "locations": [
+             "Menlo Park, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464699,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464699,
+         "url": "https://jobs.jobvite.com/careers/splunk-careers/job/oLhIvfwZ",
+         "company_name": "Splunk",
+         "title": "Frontend Software Engineer",
+         "locations": [
+             "Seattle, WA",
+             "Remote US"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464699,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464699,
+         "url": "https://www.tesla.com/careers/search/job/227675",
+         "company_name": "Tesla",
+         "title": "Software Engineer, Low Voltage & Body Controls Automation",
+         "locations": [
+             "Palo Alto, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464699,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464699,
+         "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-I_JR1405",
+         "company_name": "Wood Mackenzie",
+         "title": "Software Engineer I",
+         "locations": [
+             "Boston, MA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464699,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743464699,
+         "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I_R_103823",
+         "company_name": "Remitly",
+         "title": "Software Development Engineer I",
+         "locations": [
+             "Seattle, WA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743464699,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
