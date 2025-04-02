@@ -2267,5 +2267,85 @@
          "date_posted": 1743464699,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1743553635,
+         "url": "https://sallie-mae.wd5.myworkdayjobs.com/en-US/Careers/job/Indianapolis-IN/Associate--Software-Engineering--Automation-Testing_R25_000174",
+         "company_name": "Sallie Mae",
+         "title": "Associate, Software Engineering",
+         "locations": [
+             "Indianapolis, IN"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743553635,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743553636,
+         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Early-Careers_R0108350",
+         "company_name": "USAA",
+         "title": "Software Engineer - Early Careers",
+         "locations": [
+             "San Antonio Home Office"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743553636,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743553637,
+         "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Junior-Cloud-Architect_R-769642",
+         "company_name": "StateStreet",
+         "title": "Junior Cloud Architect",
+         "locations": [
+             "Burlington, MA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743553637,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743553638,
+         "url": "https://job-boards.greenhouse.io/everlaw/jobs/4417548006",
+         "company_name": "Everlaw",
+         "title": "Software Engineer I-III",
+         "locations": [
+             "Oakland, California"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743553638,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743553639,
+         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0136996",
+         "company_name": "Amentum",
+         "title": "Entry Level Software Engineer",
+         "locations": [
+             "Dahlgren, vA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743553639,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
