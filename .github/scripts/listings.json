@@ -2363,5 +2363,21 @@
          "date_posted": 1743713781,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1743713782,
+         "url": "https://careers-sev1tech.icims.com/jobs/8763/software-developer---entry-level/job?mobile=false&width=1280&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300",
+         "company_name": "Sev1Tech",
+         "title": "Software Developer - Entry Level",
+         "locations": [
+             "US OK Fort Sill"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743713782,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
