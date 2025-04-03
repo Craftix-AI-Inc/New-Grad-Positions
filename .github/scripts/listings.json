@@ -1595,7 +1595,7 @@
              "Irving, TX"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1742342569,
@@ -1612,7 +1612,7 @@
              "Reston, VA"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1742578805,
@@ -1628,7 +1628,7 @@
              "Huntsville, AL"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1742578805,
@@ -1660,7 +1660,7 @@
              "Bellevue, Washington"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1742578807,
@@ -1676,7 +1676,7 @@
              "Ames, IA"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1742578807,
@@ -1692,7 +1692,7 @@
              "Redlands, CA"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1742578807,
@@ -1708,7 +1708,7 @@
              "Palo Alto, California"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1742578808,
@@ -1724,7 +1724,7 @@
              "NYC, NY"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1742578808,
@@ -1740,7 +1740,7 @@
              "Seattle, Washington"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1742681885,
@@ -1772,7 +1772,7 @@
              "IL - Chicago, VA - Reston"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1742681887,
@@ -1788,7 +1788,7 @@
              "Santa Clara,CA"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1742681888,
@@ -1837,7 +1837,7 @@
              "Lawton, OK"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1742941233,
@@ -1854,7 +1854,7 @@
              "Greater Toronto Area, Ontario"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1742941233,
@@ -1903,7 +1903,7 @@
              "Scottsdale, AZ"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1743111717,
@@ -1919,7 +1919,7 @@
              "Los Angeles, CA"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1743111717,
@@ -1951,7 +1951,7 @@
              "Atlanta, GA"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1743111719,
@@ -1967,7 +1967,7 @@
              "Cedar Rapids, IA"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1743111720,
@@ -2213,7 +2213,7 @@
              "Remote US"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1743464699,
@@ -2261,7 +2261,7 @@
              "Seattle, WA"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1743464699,
@@ -2277,7 +2277,7 @@
              "Indianapolis, IN"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1743553635,
@@ -2334,7 +2334,7 @@
      },
      {
         "date_updated": 1743553639,
-         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0136996",
+         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0136999",
          "company_name": "Amentum",
          "title": "Entry Level Software Engineer",
          "locations": [
@@ -2345,6 +2345,22 @@
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1743553639,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1743713781,
+         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0136997",
+         "company_name": "Amentum",
+         "title": "Entry Level Software Engineer",
+         "locations": [
+             "Dahlgren, VA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1743713781,
          "company_url": "",
          "is_visible": true 
      }
