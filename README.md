@@ -61,6 +61,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Sev1Tech** | Software Developer - Entry Level | US OK Fort Sill | <a href="https://careers-sev1tech.icims.com/jobs/8763/software-developer---entry-level/job?mobile=false&width=1280&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 03 |
 | **Amentum** | Entry Level Software Engineer | Dahlgren, VA | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0136997?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 03 |
 | **Amentum** | Entry Level Software Engineer | Dahlgren, VA | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0136999?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 02 |
 | **Everlaw** | Software Engineer I-III | Oakland, California | <a href="https://job-boards.greenhouse.io/everlaw/jobs/4417548006?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 02 |
