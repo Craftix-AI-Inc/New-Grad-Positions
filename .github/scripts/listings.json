@@ -2379,5 +2379,219 @@
          "date_posted": 1743713782,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1744045636,
+         "url": "https://www.amazon.jobs/en/jobs/2945843/system-development-engineer-project-kuiper",
+         "company_name": "Amazon",
+         "title": "System Development Engineer, Project Kuiper",
+         "locations": [
+             "Redmond, WA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744045636,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744045636,
+         "url": "https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineer--Associate_133810",
+         "company_name": "Bloomberg",
+         "title": "Software Engineer, Associate",
+         "locations": [
+             "Arlington, VA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744045636,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744045636,
+         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
+         "company_name": "Blue Origin",
+         "title": "New Grad 2025: Software Development Engineer I",
+         "locations": [
+             "Seattle, WA",
+             "Van Horn, TX",
+             "Huntsville, AL",
+             "Denver, CO",
+             "Space Coast, FL",
+             "Los Angeles, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744045636,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744045637,
+         "url": "https://www.ycombinator.com/companies/corgi/jobs/i4ErH1r-junior-full-stack-engineer-we-work-7-days-a-week",
+         "company_name": "Corgi - YC",
+         "title": "Junior Full Stack Engineer",
+         "locations": [
+             "San Francisco, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744045637,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744045637,
+         "url": "https://www.ycombinator.com/companies/corgi/jobs/tuERhvX-sde-i-engineer-we-work-7-days-a-week",
+         "company_name": "Corgi - YC",
+         "title": "SDE I Engineer",
+         "locations": [
+             "San Francisco, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744045637,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744045638,
+         "url": "https://jobs.lever.co/layup/e6d2ab2b-4c92-45bc-9b10-17217aa46181",
+         "company_name": "Layup Parts",
+         "title": "New Grad: Software Engineer",
+         "locations": [
+             "Huntington Beach, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744045638,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744045639,
+         "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Computer-Architect---New-College-Grad-2025_JR1996025",
+         "company_name": "NVIDIA",
+         "title": "New Grad 2025: Deep Learning Computer Architect",
+         "locations": [
+             "Santa Clara, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744045639,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744045640,
+         "url": "https://www.qualtrics.com/careers/us/en/job/6774164/Machine-Learning-Engineer-I-Data-Insights",
+         "company_name": "Qualtrics",
+         "title": "Machine Learning Engineer I",
+         "locations": [
+             "Seattle, WA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744045640,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744045641,
+         "url": "https://careers.roblox.com/jobs/6759944",
+         "company_name": "Roblox",
+         "title": "Software Engineer, Builder Tools",
+         "locations": [
+             "San Mateo, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744045641,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744045642,
+         "url": "https://careers.roblox.com/jobs/6749070",
+         "company_name": "Roblox",
+         "title": "New Grad 2025: Software Engineer, Game Solutions Engineering",
+         "locations": [
+             "San Mateo, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744045642,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744045643,
+         "url": "https://www.tesla.com/careers/search/job/240332",
+         "company_name": "Tesla",
+         "title": "Software Engineer, Traction Control & Stability",
+         "locations": [
+             "Palo Alto, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744045643,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744045644,
+         "url": "https://job-boards.greenhouse.io/twitch/jobs/7938822002",
+         "company_name": "Twitch",
+         "title": "Software Development Engineer - Safety ML",
+         "locations": [
+             "San Francisco, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744045644,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744045645,
+         "url": "https://www.amazon.jobs/en/jobs/2944002/software-engineer",
+         "company_name": "Twitch",
+         "title": "Software Engineer",
+         "locations": [
+             "Seattle, WA",
+             "San Francisco, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744045645,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
