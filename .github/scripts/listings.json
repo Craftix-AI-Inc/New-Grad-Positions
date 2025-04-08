@@ -2593,5 +2593,121 @@
          "date_posted": 1744045645,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1744149529,
+         "url": "https://jobs.ashbyhq.com/Jerry/54fd4173-3e1e-4666-93c9-fdc147e9e3c5/application",
+         "company_name": "Jerry",
+         "title": "Software Engineer I",
+         "locations": [
+             "Greater Toronto Area"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744149529,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744149530,
+         "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2025-University-Graduate---Software-Engineer--Bachelors-Degree-_R2512844",
+         "company_name": "Applied Materials",
+         "title": "2025 University Graduate - Software Engineer (Bachelors Degree)",
+         "locations": [
+             "Santa Clara, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744149530,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744149531,
+         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO106-16470-East-Hughes-DriveAurora-16470-East-Hughes-Drive-Building-S77-Aurora-CO-80011-USA/XMLNAME-2025-Fulltime---Raytheon-Software-Engineer-I_01760812",
+         "company_name": "RTX",
+         "title": "2025 Fulltime - Raytheon Software Engineer I (On-site)",
+         "locations": [
+             "Aurora, CO"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744149531,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744149532,
+         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0137355",
+         "company_name": "Amentum",
+         "title": "Entry Level Software Engineer",
+         "locations": [
+             "Dahlgren, VA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744149532,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744149533,
+         "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Site/Android-Engineer-I---Digital-Servicing_2501250-1",
+         "company_name": "Synchrony",
+         "title": "Android Engineer I – Digital Servicing",
+         "locations": [
+             "Alpharetta Site",
+              "Stamford Remote CT",
+              "Chicago Site",
+              "Kansas City Remote KS",
+              "Costa Mesa CA US"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744149533,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744149534,
+         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Engineer-I_R202561155",
+         "company_name": "COX",
+         "title": "Data Engineer I",
+         "locations": [
+             "Atlanta, GA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744149534,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744149534,
+         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/NH201-50-Bush-Hill-Road-Pelham-50-Bush-Hill-Road-Pelham-Test-Facility-NH-Pelham-NH-03076-USA/XMLNAME-2025-Fulltime---Raytheon-RADAR-Software-Development-Engineer-I--Onsite-_01760890",
+         "company_name": "RTX",
+         "title": "2025 Fulltime - Raytheon RADAR Software Development Engineer I (Onsite)",
+         "locations": [
+             "Pelham, NH"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744149534,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
