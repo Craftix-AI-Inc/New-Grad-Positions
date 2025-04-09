@@ -2709,5 +2709,69 @@
          "date_posted": 1744149534,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1744149534,
+         "url": "https://careers.airbnb.com/positions/6784430/?gh_jid=6784430",
+         "company_name": "Airbnb",
+         "title": "Software Engineer - New Grad - Search Feed",
+         "locations": [
+             "Remote in USA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744149534,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744216905,
+         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Miamisburg-OH/Software-Engineer-I---Miamisburg--OH_R93376",
+         "company_name": "LexisNexis Risk Solutions",
+         "title": "Software Engineer I",
+         "locations": [
+             "Miamisburg, OH"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744216905,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744216905,
+         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00157004",
+         "company_name": "Leidos",
+         "title": "Software Developer - Entry level",
+         "locations": [
+             "Lawton, OK"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744216905,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744216905,
+         "url": "https://jobs.ashbyhq.com/creditgenie/016056e0-61cd-4a19-9d42-5f3cd88fed02",
+         "company_name": "Credit Genie",
+         "title": "New Grad - Software Engineer",
+         "locations": [
+             "New York, NY"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744216905,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
