@@ -2293,7 +2293,7 @@
              "San Antonio Home Office"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1743553636,
@@ -2357,7 +2357,7 @@
              "Dahlgren, VA"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1743713781,
@@ -2405,7 +2405,7 @@
              "Arlington, VA"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1744045636,
@@ -2506,7 +2506,7 @@
              "Seattle, WA"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1744045640,
@@ -2619,7 +2619,7 @@
              "Santa Clara, CA"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1744149530,
@@ -2635,7 +2635,7 @@
              "Aurora, CO"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1744149531,
@@ -2671,7 +2671,7 @@
               "Costa Mesa CA US"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1744149533,
@@ -2719,7 +2719,7 @@
              "Remote in USA"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1744149534,
@@ -2767,7 +2767,7 @@
              "New York, NY"
          ],
          "sponsorship": "Offers Sponsorship",
-         "active": true,
+         "active": false,
          "source": "ERICQA0201",
          "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
          "date_posted": 1744216905,
