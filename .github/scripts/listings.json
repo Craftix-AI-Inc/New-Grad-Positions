@@ -2806,5 +2806,204 @@
          "date_posted": 1744216905,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1744674446,
+         "url": "https://www.amazon.jobs/en/jobs/2950609/software-dev-engineer-computer-science",
+         "company_name": "Amazon",
+         "title": "Software Dev Engineer",
+         "locations": [
+             "Austin, TX",
+             "New York, NY",
+             "Seattle, WA",
+             "Culver City, CA",
+             "Santa Clara, CA",
+             "Bellevue, WA",
+             "Denver, CO",
+             "Palo Alto, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744674446,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744674446,
+         "url": "https://www.amazon.jobs/en/jobs/2953226/systems-development-engineer-mechatronics-and-sustainable-packaging",
+         "company_name": "Amazon",
+         "title": "Systems Development Engineer, Mechatronics and Sustainable Packaging",
+         "locations": [
+             "Bellevue, WA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744674446,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744674446,
+         "url": "https://athene.wd5.myworkdayjobs.com/en-US/Apollo_Careers/job/El-Segundo-California/Full-Stack-Engineer_R240715-1",
+         "company_name": "Apollo",
+         "title": "Full Stack Engineer",
+         "locations": [
+             "El Segundo, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744674446,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744674446,
+         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/SRAM-CAD-Engineer---New-College-Grad-2025_JR1996519",
+         "company_name": "NVIDIA",
+         "title": "New Grad 2025: SRAM CAD Engineer",
+         "locations": [
+             "Santa Clara, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744674446,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744674446,
+         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/SRAM-Circuit-Design-Engineer---New-College-Grad-2025_JR1996520",
+         "company_name": "NVIDIA",
+         "title": "New Grad 2025: SRAM Circuit Design Engineer",
+         "locations": [
+             "Santa Clara, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744674446,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744674446,
+         "url": "https://join.softheon.com/_/j/4AFE55D62D/",
+         "company_name": "Softheon",
+         "title": "Software Engineer I - Membership",
+         "locations": [
+             "Remote US"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744674446,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744674446,
+         "url": "https://www.tesla.com/careers/search/job/240828?utm_source=cvrve",
+         "company_name": "Tesla",
+         "title": "Software Engineer, Drivers & Control Plane, Dojo",
+         "locations": [
+             "Palo Alto, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744674446,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744674446,
+         "url": "https://www.tesla.com/careers/search/job/software-engineer-metrics-genai-model-evaluation-226926",
+         "company_name": "Tesla",
+         "title": "Software Engineer, Metrics, GenAI Model Evaluation",
+         "locations": [
+             "Palo Alto, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744674446,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744674446,
+         "url": "https://www.tesla.com/careers/search/job/frontend-engineer-genai-model-evaluation-226925",
+         "company_name": "Tesla",
+         "title": "Frontend Engineer, GenAI Model Evaluation",
+         "locations": [
+             "Palo Alto, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744674446,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744674446,
+         "url": "https://www.tesla.com/careers/search/job/235630",
+         "company_name": "Tesla",
+         "title": "Software Engineer, AI Driven Test Automation",
+         "locations": [
+             "Palo Alto, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744674446,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744674446,
+         "url": "https://www.tesla.com/careers/search/job/241276",
+         "company_name": "Tesla",
+         "title": "Linux Site Reliability Engineer, IT Manufacturing Site Reliability Engineering",
+         "locations": [
+             "Fremont, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744674446,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744674446,
+         "url": "https://job-boards.greenhouse.io/twitch/jobs/7950562002",
+         "company_name": "Twitch",
+         "title": "Software Engineer",
+         "locations": [
+             "San Francisco, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744674446,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
