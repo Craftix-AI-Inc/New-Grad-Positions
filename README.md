@@ -61,9 +61,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Softheon** | Software Engineer I - Membership | Pittsburgh, PA | 🔒 | Apr 09 |
 | **LexisNexis Risk Solutions** | Software Engineer I | Miamisburg, OH | <a href="https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Miamisburg-OH/Software-Engineer-I---Miamisburg--OH_R93376?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 09 |
 | **Leidos** | Software Developer - Entry level | Lawton, OK | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00157004?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 09 |
 | **Credit Genie** | New Grad - Software Engineer | New York, NY | 🔒 | Apr 09 |
+| **Amazon** | Software Development Engineer I - Computer Science | Toronto, ON, Canada</br>Vancouver, BC, Canada | 🔒 | Apr 09 |
 | **RTX** | 2025 Fulltime - Raytheon RADAR Software Development Engineer I (Onsite) | Pelham, NH | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/NH201-50-Bush-Hill-Road-Pelham-50-Bush-Hill-Road-Pelham-Test-Facility-NH-Pelham-NH-03076-USA/XMLNAME-2025-Fulltime---Raytheon-RADAR-Software-Development-Engineer-I--Onsite-_01760890?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 08 |
 | **COX** | Data Engineer I | Atlanta, GA | <a href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Engineer-I_R202561155?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 08 |
 | **Airbnb** | Software Engineer - New Grad - Search Feed | Remote in USA | 🔒 | Apr 08 |
