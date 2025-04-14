@@ -2773,5 +2773,38 @@
          "date_posted": 1744216905,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1744216905,
+         "url": "https://join.softheon.com/_/j/4AFE55D62D/apply/",
+         "company_name": "Softheon",
+         "title": "Software Engineer I - Membership",
+         "locations": [
+             "Pittsburgh, PA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": false,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744216905,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744216905,
+         "url": "https://amazon.jobs/en/jobs/2855790/software-development-engineer-i-2025-computer-science",
+         "company_name": "Amazon",
+         "title": "Software Development Engineer I - Computer Science",
+         "locations": [
+             "Toronto, ON, Canada",
+             "Vancouver, BC, Canada"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": false,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744216905,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
