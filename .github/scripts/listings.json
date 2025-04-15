@@ -3005,5 +3005,69 @@
          "date_posted": 1744674446,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1744674447,
+         "url": "https://recruiting.ultipro.com/VMS1002VMOO/JobBoard/3dde3e78-a60b-47af-93cf-ef6db6ed312b/OpportunityDetail?opportunityId=fa0772d7-fa49-4ce9-b7ae-de1a0da018eb",
+         "company_name": "21CS",
+         "title": "Graduate Software Engineer",
+         "locations": [
+             "Morehead City, NC"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744674447,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744674447,
+         "url": "https://jobs.bentley.com/job/Exton-Software-Engineer-PA-19341/1281097600",
+         "company_name": "Bentley",
+         "title": "Software Engineer",
+         "locations": [
+             "Exton, PA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744674447,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744674447,
+         "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer_REQ2025270",
+         "company_name": "Early Warning",
+         "title": "Software Engineer",
+         "locations": [
+             "Scottsdale, AZ"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744674447,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744674447,
+         "url": "https://medela.wd103.myworkdayjobs.com/en-US/Medela_Careers/job/Software-Development-Engineer_R2129-2",
+         "company_name": "Medela",
+         "title": "Associate Software Development Engineer",
+         "locations": [
+             "McHenry, IL"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744674447,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
