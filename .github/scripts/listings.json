@@ -3069,5 +3069,182 @@
          "date_posted": 1744674447,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1744754024,
+         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3197298_R2129-2",
+         "company_name": "North Atlantic Industries",
+         "title": "Software Engineer I",
+         "locations": [
+             "Long Island, New York"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744754024,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744754025,
+         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C----Linux_01762220",
+         "company_name": "RTX",
+         "title": "Software Engineer I - C/C++, Linux",
+         "locations": [
+             "Middletown, RI"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744754025,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744754026,
+         "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6797471",
+         "company_name": "Tripadvisor",
+         "title": "Software Engineer I",
+         "locations": [
+             "Remote in UK"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744754026,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744754027,
+         "url": "https://jobs.ashbyhq.com/walrusfi/071c8ee6-c5c9-4e23-98d8-251a17204803/application",
+         "company_name": "Walrus",
+         "title": "Full Stack Developer – New Graduate",
+         "locations": [
+             "Remote in USA, NYC"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744754027,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744754028,
+         "url": "https://thorsolutionsllc.applytojob.com/apply/C8LIaGu8So/Software-Engineer-I?referrer=20250414192432YMUDC3C4I6XZL15U",
+         "company_name": "THOR Solutions",
+         "title": "Software Engineer I",
+         "locations": [
+             "Philadelphia, PA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744754028,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744754028,
+         "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Development-Engineer-I_10114848",
+         "company_name": "Walt Disney",
+         "title": "Software Development Engineer I",
+         "locations": [
+             "Seattle, WA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744754028,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744754029,
+         "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Software-Quality-Engineer-I---CIAM_R-43728",
+         "company_name": "Travelers",
+         "title": "Software Quality Engineer I - CIAM",
+         "locations": [
+             "CT - Hartford",
+             "MN - St. Paul"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744754029,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744754029,
+         "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Data-Engineer-I--MLOps_R-43818",
+         "company_name": "Travelers",
+         "title": "Data Engineer I, MLOps",
+         "locations": [
+             "CT - Hartford"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744754029,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744754030,
+         "url": "https://job-boards.greenhouse.io/openeye/jobs/7936937002",
+         "company_name": "OpenEye",
+         "title": "Software QA Specialist I",
+         "locations": [
+             "Liberty Lake, WA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744754030,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744754031,
+         "url": "https://jobs.baesystems.com/global/en/job/BAE1US112053BREXTERNAL/Software-Engineer-I",
+         "company_name": "BAE",
+         "title": "Software Engineer I",
+         "locations": [
+             "Nashua, NH"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744754031,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744754031,
+         "url": "https://careers-axway.icims.com/jobs/8103/cloud-operations-associate/job",
+         "company_name": "Axway",
+         "title": "Cloud Operations Associate",
+         "locations": [
+             "Scottsdale, AZ"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744754031,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
