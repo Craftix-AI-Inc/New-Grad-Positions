@@ -3246,5 +3246,86 @@
          "date_posted": 1744754031,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1744910365,
+         "url": "https://amazon.jobs/en/jobs/2955921/ml-compiler-engineer-i-annapurna-labs",
+         "company_name": "Amazon",
+         "title": "ML Compiler Engineer I, Annapurna Labs",
+         "locations": [
+             "Seattle, WA",
+             "Cupertino, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744910365,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744910365,
+         "url": "https://jobs.ashbyhq.com/Jerry/210f4864-89a5-4ab1-b45c-c2e16c5c2897/application",
+         "company_name": "Jerry",
+         "title": "Software Engineer I",
+         "locations": [
+             "SF, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744910365,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744910365,
+         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-I--SDET---Java-_R-245943",
+         "company_name": "Mastercard",
+         "title": "Software Engineer I",
+         "locations": [
+             "Vancouver, BC, Canada"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744910365,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744910365,
+         "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Embedded-Software-Engineer-I_R032010",
+         "company_name": "Plexus",
+         "title": "Embedded Software Engineer I",
+         "locations": [
+             "Neenah, WI"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744910365,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744910365,
+         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I--BACKEND-_R202561426-1",
+         "company_name": "Cox",
+         "title": "Software Engineer I (BACKEND)",
+         "locations": [
+             "Carmel, IN"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744910365,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
