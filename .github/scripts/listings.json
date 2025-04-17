@@ -3327,5 +3327,53 @@
          "date_posted": 1744910365,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1744926678,
+         "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/Data-Engineer-I--Product-Owner-_R-43685",
+         "company_name": "Travelers",
+         "title": "Data Engineer I (Product Owner)",
+         "locations": [
+             "Hybrid"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744926678,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744926679,
+         "url": "https://www.qualtrics.com/careers/us/en/job/6808655?gh_jid=6808655",
+         "company_name": "Qualtrics",
+         "title": "Software Engineer I, Data Platform",
+         "locations": [
+             "Seattle, WA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744926679,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1744926679,
+         "url": "https://jobs.lever.co/dnb/ecca5ab6-d8df-4c76-a4e1-0f0ab457eafb/apply",
+         "company_name": "Dun & Bradstreet",
+         "title": "Data Engineer I",
+         "locations": [
+             "Jacksonville, FL"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1744926679,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
