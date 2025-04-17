@@ -61,6 +61,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Qualtrics** | Software Engineer I, Data Platform | Seattle, WA | <a href="https://www.qualtrics.com/careers/us/en/job/6808655?gh_jid=6808655&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 17 |
+| **Dun & Bradstreet** | Data Engineer I | Jacksonville, FL | <a href="https://jobs.lever.co/dnb/ecca5ab6-d8df-4c76-a4e1-0f0ab457eafb/apply?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 17 |
+| **Travelers** | Data Engineer I (Product Owner) | Hybrid | <a href="https://travelers.wd5.myworkdayjobs.com/en-US/External/job/Data-Engineer-I--Product-Owner-_R-43685?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 17 |
 | **Plexus** | Embedded Software Engineer I | Neenah, WI | <a href="https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Embedded-Software-Engineer-I_R032010?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 17 |
 | **Mastercard** | Software Engineer I | Vancouver, BC, Canada | <a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-I--SDET---Java-_R-245943?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 17 |
 | **Jerry** | Software Engineer I | SF, CA | <a href="https://jobs.ashbyhq.com/Jerry/210f4864-89a5-4ab1-b45c-c2e16c5c2897/application?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 17 |
