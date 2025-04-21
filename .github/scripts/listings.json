@@ -3375,5 +3375,133 @@
          "date_posted": 1744926679,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1745274031,
+         "url": "https://www.pinterestcareers.com/jobs/6816337/software-engineer-i/?gh_jid=6816337",
+         "company_name": "Pinterest",
+         "title": "Software Engineer I",
+         "locations": [
+             "Seattle, WA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745274031,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745274031,
+         "url": "https://jobs.ashbyhq.com/Jerry/86a0ecd6-e494-4736-a12d-2e88001d46c5",
+         "company_name": "Jerry",
+         "title": "Software Engineer I",
+         "locations": [
+             "Toronto, ON, Canada"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745274031,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745274032,
+         "url": "https://jobs.ashbyhq.com/Jerry/ebb57f00-5cc3-49e0-afe6-72ff9ed215ab/application",
+         "company_name": "Jerry",
+         "title": "Software Engineer I",
+         "locations": [
+             "San Francisco, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745274032,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745274033,
+         "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-256822-1",
+         "company_name": "Robert Half",
+         "title": "Software Engineer I",
+         "locations": [
+             "San Ramon, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745274033,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745274034,
+         "url": "https://careers-gdms.icims.com/jobs/66101/entry-level-software-engineer/job?mobile=false&width=1340&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+         "company_name": "General Dynamics Mission Systems",
+         "title": "Entry Level Software Engineer",
+         "locations": [
+             "Scottsdale, AZ"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745274034,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745274035,
+         "url": "https://job-boards.greenhouse.io/impact/jobs/7818281002",
+         "company_name": "Impact",
+         "title": "Software Engineer I, Big Data, Data Platform",
+         "locations": [
+             "Columbus, OH"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745274035,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745274036,
+         "url": "https://careers-peraton.icims.com/jobs/156162/junior-software-engineer---python-c%2b%2b/job?mobile=false&width=1323&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+         "company_name": "Peraton",
+         "title": "Junior Software Engineer - Python/C++",
+         "locations": [
+             "Scott AFB, IL"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745274036,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745274036,
+         "url": "https://careers-peraton.icims.com/jobs/156136/entry-level-cyber-software-engineer/job",
+         "company_name": "Peraton",
+         "title": "Entry-Level Cyber Software Engineer",
+         "locations": [
+             "Landover, MD"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745274036,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
