@@ -3503,5 +3503,102 @@
          "date_posted": 1745274036,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1745359303,
+         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Engineer-I_R0108887",
+         "company_name": "USAA",
+         "title": "Data Engineer I",
+         "locations": [
+             "San Antonio, TX"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745359303,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745359303,
+         "url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Data-Engineer-I--AWS-DevOps-Teradata-_R-43904",
+         "company_name": "Travelers",
+         "title": "Data Engineer I (AWS/DevOps/Teradata)",
+         "locations": [
+             "Hartford, CT",
+             "MN - St. Paul"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745359303,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745359304,
+         "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Associate-Software-Engineer--Backend-Java_R0126032",
+         "company_name": "Paypal",
+         "title": "Associate Software Engineer, Backend Java",
+         "locations": [
+             "San Jose, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745359304,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745359305,
+         "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Associate-Software-Engineer--Backend-Python_R0126036",
+         "company_name": "Paypal",
+         "title": "Associate Software Engineer, Backend Python",
+         "locations": [
+             "San Jose, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745359305,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745359305,
+         "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/4510-Lawton-OK/Junior-Software-Developer_R-00157463",
+         "company_name": "Leidos",
+         "title": "Junior Software Developer",
+         "locations": [
+             "Lawton, OK"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745359305,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745359306,
+         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R410384",
+         "company_name": "Comcast",
+         "title": "Engineer 1, Software Development & Engineering",
+         "locations": [
+             "Philadelphia, PA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745359306,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
