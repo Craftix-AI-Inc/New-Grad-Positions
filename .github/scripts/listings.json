@@ -3665,5 +3665,21 @@
          "date_posted": 1745455449,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1745455449,
+         "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rome/Fullstack-Web-Application-Software-Engineer---Entry-Level_310885-1",
+         "company_name": "CACI",
+         "title": "Fullstack Web Application Software Engineer - Entry Level",
+         "locations": [
+             "Rome, NY"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745455449,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
