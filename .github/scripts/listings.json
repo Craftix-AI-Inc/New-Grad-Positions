@@ -3600,5 +3600,70 @@
          "date_posted": 1745359306,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1745455447,
+         "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Software-Engineer-I_R0027324",
+         "company_name": "SNC",
+         "title": "Software Engineer I",
+         "locations": [
+             "Lone Tree, CO"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745455447,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745455447,
+         "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00157630",
+         "company_name": "Leidos",
+         "title": "Software Developer - Entry level",
+         "locations": [
+             "Fort Sill, OK",
+             "Lawton, OK"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745455447,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745455448,
+         "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Hyderabad---TS---IN/Software-Engineer-I---Content-QA_R1591157",
+         "company_name": "Bristol Myers Squibb",
+         "title": "Software Engineer I - Content QA",
+         "locations": [
+             "Hyderabad - TS - IN"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745455448,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745455449,
+         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Research-Data-Engineer--Health-Research-_R-00158034",
+         "company_name": "Leidos",
+         "title": "Research Data Engineer (Health Research) - Entry Level",
+         "locations": [
+             "San Diego, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745455449,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
