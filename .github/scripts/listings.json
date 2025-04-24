@@ -3681,5 +3681,134 @@
          "date_posted": 1745455449,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1745530554,
+         "url": "https://aurora.tech/jobs/software-engineer-i-7940570002",
+         "company_name": "Aurora Innovation",
+         "title": "Software Engineer I",
+         "locations": [
+             "Lafayette, CO"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745530554,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745530555,
+         "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2024",
+         "company_name": "TSC",
+         "title": "Software Engineer I",
+         "locations": [
+             "Silver Spring, MD"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745530555,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745530556,
+         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Engineer-1--Software-Development---Engineering_R409766",
+         "company_name": "Comcast",
+         "title": "Engineer 1, Software Development & Engineering",
+         "locations": [
+             "Philadelphia, PA",
+             "Englewood, CO"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745530556,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745530557,
+         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Associate-Full-Stack-Software-Engineer_JR25040445",
+         "company_name": "Manulife",
+         "title": "Associate Full-Stack Software Engineer",
+         "locations": [
+             "Waterloo, Ontario"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745530557,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745530558,
+         "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/4510-Lawton-OK/Junior-Software-Developer_R-00157464",
+         "company_name": "Leidos",
+         "title": "Junior Software Developer",
+         "locations": [
+             "Lawton OK"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745530558,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745530559,
+         "url": "https://idexx.wd1.myworkdayjobs.com/en-US/IDEXX/job/Nashville-TN/Junior-Data-Engineer_J-047445",
+         "company_name": "IDEXX",
+         "title": "Junior Data Engineer",
+         "locations": [
+             "Nashville, TN"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745530559,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745530559,
+         "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Pittsburgh-Pennsylvania-United-States/Associate-Software-Engineer_R0090994",
+         "company_name": "Hitachi",
+         "title": "Associate Software Engineer",
+         "locations": [
+             "Pittsburgh, PA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745530559,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745530560,
+         "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_241816",
+         "company_name": "Blue Yonder",
+         "title": "Software Engineer I",
+         "locations": [
+             "Dallas, TX"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745530560,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
