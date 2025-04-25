@@ -3810,5 +3810,101 @@
          "date_posted": 1745530560,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1745612061,
+         "url": "https://boards.greenhouse.io/embed/job_app?token=6818854",
+         "company_name": "Chewy",
+         "title": "Data Engineer I",
+         "locations": [
+             "Bellevue, WA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745612061,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745612062,
+         "url": "https://boards.greenhouse.io/embed/job_app?token=6821292",
+         "company_name": "Chewy",
+         "title": "Data Engineer I",
+         "locations": [
+             "Plantation, FL"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745612062,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745612063,
+         "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Software-Engineer-I_R28604-1",
+         "company_name": "Medtronic",
+         "title": "Software Engineer I",
+         "locations": [
+             "Los Angeles, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745612063,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745612064,
+         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Mount-Laurel-1800-Bishops-Gate/Engineer-1--Software-Development---Engineering_R410972",
+         "company_name": "Comcast",
+         "title": "Engineer 1 - Software Development & Engineering",
+         "locations": [
+             "Mount Laurel, NJ"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745612064,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745612065,
+         "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Seattle/CAMPUS--Software-Development-Engineer-Associate_JR5024",
+         "company_name": "Capital Group",
+         "title": "CAMPUS: Software Development Engineer Associate",
+         "locations": [
+             "Seattle, WA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745612065,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745612066,
+         "url": "https://www.candex.com/careers/job/4578131101?gh_jid=4578131101",
+         "company_name": "Candex",
+         "title": "Associate Data Engineer",
+         "locations": [
+             "Boston, MA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745612066,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
