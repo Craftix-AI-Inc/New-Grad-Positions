@@ -61,6 +61,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Cox** | Software Engineer I | Atlanta, GA | <a href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202561650?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 29 |
+| **Adobe** | 2025 University Graduate - Software Engineer | New York, NY | <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2025-University-Graduate---Software-Engineer_R148217?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 29 |
 | **Candex** | Associate Data Engineer | Boston, MA | <a href="https://www.candex.com/careers/job/4578131101?gh_jid=4578131101&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 25 |
 | **Capital Group** | CAMPUS: Software Development Engineer Associate | Seattle, WA | <a href="https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Seattle/CAMPUS--Software-Development-Engineer-Associate_JR5024?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 25 |
 | **Comcast** | Engineer 1 - Software Development & Engineering | Mount Laurel, NJ | <a href="https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Mount-Laurel-1800-Bishops-Gate/Engineer-1--Software-Development---Engineering_R410972?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 25 |
