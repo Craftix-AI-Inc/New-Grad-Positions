@@ -3906,5 +3906,37 @@
          "date_posted": 1745612066,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1745904087,
+         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2025-University-Graduate---Software-Engineer_R148217",
+         "company_name": "Adobe",
+         "title": "2025 University Graduate - Software Engineer",
+         "locations": [
+             "New York, NY"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745904087,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1745904087,
+         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202561650",
+         "company_name": "Cox",
+         "title": "Software Engineer I",
+         "locations": [
+             "Atlanta, GA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1745904087,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
