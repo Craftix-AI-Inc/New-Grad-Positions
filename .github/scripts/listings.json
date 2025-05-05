@@ -3938,5 +3938,176 @@
          "date_posted": 1745904087,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1746486738,
+         "url": "https://jobs.lever.co/1password/7d7731c0-6a65-433b-bb8e-41d21a6434f3",
+         "company_name": "1Password",
+         "title": "Junior Developer",
+         "locations": [
+             "Remote US"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1746486738,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1746486738,
+         "url": "https://www.disneycareers.com/en/job/-/-/391/80725916816",
+         "company_name": "Disney",
+         "title": "Associate Software Engineer",
+         "locations": [
+             "Seattle, WA",
+             "Burbank, CA",
+             "Orlando, FL"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1746486738,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1746486738,
+         "url": "https://www.disneycareers.com/en/job/-/-/391/80725916816",
+         "company_name": "Disney",
+         "title": "Associate Software Engineer",
+         "locations": [
+             "Seattle, WA",
+             "Burbank, CA",
+             "Orlando, FL"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1746486738,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1746486738,
+         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/VLSI-Physical-Design-Engineer---New-College-Grad-2025_JR1997079",
+         "company_name": "NVIDIA",
+         "title": "New Grad 2025: VLSI Physical Design Engineer",
+         "locations": [
+             "Westford, MA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1746486738,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1746486738,
+         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Design-Engineer--Coherent-High-Speed-Interconnect---New-College-Grad-2025_JR1997017",
+         "company_name": "NVIDIA",
+         "title": "New Grad 2025: Design Engineer, Coherent High Speed Interconnect",
+         "locations": [
+             "Santa Clara, CA",
+             "Westford, MA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1746486738,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1746486738,
+         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Software-Development-Engineer-in-Test--Graphics---New-College-Grad-2025_JR1996858",
+         "company_name": "NVIDIA",
+         "title": "Software Development Engineer in Test, Graphics - New College Grad 2025",
+         "locations": [
+             "US, TX, Austin",
+             "US, TX, Remote",
+             "US, WA, Remote",
+             "US, CA, Remote",
+             "US, WA, Redmond",
+             "US, CA, Santa Clara"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1746486738,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1746486738,
+         "url": "https://careers.sig.com/job/SUSQA004Y9261",
+         "company_name": "SIG",
+         "title": "New Grad: Software Developer",
+         "locations": [
+             "Bala Cynwyd, PA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1746486738,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1746486738,
+         "url": "https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/San-Diego-California/Software-Engineer--Embedded--Level-3_R0040311",
+         "company_name": "Snap Inc",
+         "title": "Embedded Software Engineer",
+         "locations": [
+             "San Diego, CA",
+             "Los Angeles, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1746486738,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1746486738,
+         "url": "https://lifeattiktok.com/search/7275869814408300837?spread=5MWH5CQ",
+         "company_name": "TikTok",
+         "title": "Full-stack Engineer, Data Platform",
+         "locations": [
+             "San Jose, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1746486738,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1746486738,
+         "url": "https://lifeattiktok.com/search/7275869814408300837?spread=5MWH5CQ",
+         "company_name": "TikTok",
+         "title": "Full-stack Engineer, Data Platform",
+         "locations": [
+             "San Jose, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1746486738,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
