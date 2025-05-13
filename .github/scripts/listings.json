@@ -4301,5 +4301,53 @@
          "date_posted": 1746748169,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1747180029,
+         "url": "https://jobs.ashbyhq.com/Jerry/6cdeb247-37ee-4c1b-82d1-49d246adb15c",
+         "company_name": "Jerry",
+         "title": "Software Engineer I (San Francisco)",
+         "locations": [
+             "San Francisco, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1747180029,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1747180030,
+         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--GPU-Software---2025-New-College-Grad_JR1997512",
+         "company_name": "NVIDA",
+         "title": "Systems Software Engineer, GPU Software - 2025 New College Grad",
+         "locations": [
+             "Santa Clara, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1747180030,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1747180031,
+         "url": "https://boards.greenhouse.io/embed/job_app?token=6862212",
+         "company_name": "NVIDA",
+         "title": "Software Engineer I",
+         "locations": [
+             "Boston, MA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1747180031,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
