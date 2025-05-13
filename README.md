@@ -61,7 +61,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **NVIDA** | Software Engineer I | Boston, MA | <a href="https://boards.greenhouse.io/embed/job_app?token=6862212&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 13 |
+| **Chewy** | Software Engineer I | Boston, MA | <a href="https://boards.greenhouse.io/embed/job_app?token=6862212&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 13 |
 | **NVIDA** | Systems Software Engineer, GPU Software - 2025 New College Grad | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--GPU-Software---2025-New-College-Grad_JR1997512?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 13 |
 | **Jerry** | Software Engineer I (San Francisco) | San Francisco, CA | <a href="https://jobs.ashbyhq.com/Jerry/6cdeb247-37ee-4c1b-82d1-49d246adb15c?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 13 |
 | **Peraton** | Software Engineering, Associate | Santa Clara, CA | <a href="https://careers-peraton.icims.com/jobs/156742/software-engineering%2c-associate/job?mobile=false&width=1291&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
