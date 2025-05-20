@@ -4525,5 +4525,101 @@
          "date_posted": 1747435572,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1747775658,
+         "url": "https://www.qualtrics.com/careers/us/en/job/6889008?gh_jid=6889008",
+         "company_name": "Qualtrics",
+         "title": "Software Development Engineer I, Customer Experience, Seattle",
+         "locations": [
+             "Seattle, WA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1747775658,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1747775659,
+         "url": "https://www.qualtrics.com/careers/us/en/job/6897875?gh_jid=6897875",
+         "company_name": "Qualtrics",
+         "title": "Software Engineer I, Foundation - Seattle and Reston",
+         "locations": [
+             "Reston, VA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1747775659,
+         "company_url": "",
+         ",is_visible": true 
+     },
+     {
+        "date_updated": 1747775660,
+         "url": "https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---California---Carlsbad/Software-Quality-Assurance-Engineer-I_REQ46131",
+         "company_name": "Nordson",
+         "title": "Software Quality Assurance Engineer I",
+         "locations": [
+             "Carlsbad, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1747775660,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1747775661,
+         "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Virginia-United-States/Apprentice-Software-Support-Engineer_R0030096",
+         "company_name": "Harris",
+         "title": "Apprentice Software Support Engineer",
+         "locations": [
+             "Virginia, Nevada, Oregon, Oklahoma, Georgia"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1747775661,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1747775662,
+         "url": "https://jobs.baesystems.com/global/en/job/BAE1US113132BREXTERNAL/Engineer-Junior-Software",
+         "company_name": "BAE Systems",
+         "title": "Engineer, Junior Software",
+         "locations": [
+             "Lexington Park, MD"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1747775662,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1747775662,
+         "url": "https://jobs.ashbyhq.com/Jerry/7c6f4247-f17f-4edf-9cd3-099d2263cb3a",
+         "company_name": "Jerry",
+         "title": "Software Engineer I (San Francisco)",
+         "locations": [
+             "San Francisco, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1747775662,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
