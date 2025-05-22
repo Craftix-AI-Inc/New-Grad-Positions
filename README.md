@@ -61,7 +61,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Jerry** | Software Engineer I (San Francisco) | San Francisco, CA | 🔒 | May 20 |
+| **Jerry** | Software Engineer I (San Francisco) | San Francisco, CA | <a href="https://jobs.ashbyhq.com/Jerry/7c6f4247-f17f-4edf-9cd3-099d2263cb3a?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 20 |
 | **BAE Systems** | Engineer, Junior Software | Lexington Park, MD | <a href="https://jobs.baesystems.com/global/en/job/BAE1US113132BREXTERNAL/Engineer-Junior-Software?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 20 |
 | **Harris** | Apprentice Software Support Engineer | Virginia, Nevada | <a href="https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Virginia-United-States/Apprentice-Software-Support-Engineer_R0030096?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 20 |
 | **Nordson** | Software Quality Assurance Engineer I | Carlsbad, CA | <a href="https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---California---Carlsbad/Software-Quality-Assurance-Engineer-I_REQ46131?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 20 |
