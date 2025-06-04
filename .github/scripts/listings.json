@@ -4797,5 +4797,137 @@
          "date_posted": 1747951422,
          "company_url": "",
          "is_visible": true 
+     },
+     {
+        "date_updated": 1748994542,
+         "url": "https://jobs.ashbyhq.com/Jerry/9b0f472a-e1a2-484b-af4b-53134df3e39d",
+         "company_name": "Jerry",
+         "title": "Software Engineer I",
+         "locations": [
+             "San Francisco, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1748994542,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1748994542,
+         "url": "https://jobs.ashbyhq.com/numeric/f9c9e075-7799-414f-8601-f770c0cd9061",
+         "company_name": "Numeric",
+         "title": "Software Engineer - Early Career",
+         "locations": [
+             "New York, San Francisco"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1748994542,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1748994543,
+         "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/San-Francisco-CA-USA/Software-Engineer-I_10121013",
+         "company_name": "Walt Disney",
+         "title": "Software Engineer I",
+         "locations": [
+             "San Francisco, CA",
+                "Seattle, WA",
+            "Glendale, CA",
+            "New York, NY",
+            "Santa Monica, CA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1748994543,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1748994544,
+         "url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Bloomfield-CT/Associate-Software-Engineer---Laboratory-Automation---Robotics_2515862",
+         "company_name": "Labcorp",
+         "title": "Associate Software Engineer – Laboratory Automation & Robotics",
+         "locations": [
+             "Bloomfield, CT"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1748994544,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1748994544,
+         "url": "https://careers.deere.com/careers/job/137468406976?domain=johndeere.com",
+         "company_name": "John Deere",
+         "title": "Analytics Data Engineer III",
+         "locations": [
+             "Moline, Illinois"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1748994544,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1748994545,
+         "url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Alpharetta-Georgia/Software-Architecture---Advisor-I_R-10359173",
+         "company_name": "Fiserv",
+         "title": "Software Architecture - Advisor I",
+         "locations": [
+             "Alpharetta, Georgia"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1748994545,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1748994546,
+         "url": "https://job-boards.greenhouse.io/boingo/jobs/6882477",
+         "company_name": "Boingo Wireless",
+         "title": "Associate Software Engineer",
+         "locations": [
+             "Frisco, TX"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1748994546,
+         "company_url": "",
+         "is_visible": true 
+     },
+     {
+        "date_updated": 1748994546,
+         "url": "https://infinitive.applytojob.com/apply/X9w9MUDdwJ/Junior-Data-Engineer",
+         "company_name": "Infinitive",
+         "title": "Junior Data Engineer",
+         "locations": [
+             "McLean, VA"
+         ],
+         "sponsorship": "Offers Sponsorship",
+         "active": true,
+         "source": "ERICQA0201",
+         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+         "date_posted": 1748994546,
+         "company_url": "",
+         "is_visible": true 
      }
 ]
